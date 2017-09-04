@@ -2,5 +2,5 @@
 
 Hi Humans!
 
-Hubot here, I like Node.js and Coffeescript (that's what I'm make of!).
-I've had tacos on the moon and find them far superior to Earth tacos.
+Hunk here, I like Python and Machine Learning.
+I've had more than 8 years experience on hardware development and about one year experience on data mining.
